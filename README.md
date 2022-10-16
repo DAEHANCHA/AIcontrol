@@ -10,7 +10,7 @@
 <img src="https://postfiles.pstatic.net/20131106_198/wlsgoryckfh_1383707003144eFJr3_JPEG/%C6%FA%B8%AE%C5%D8%BA%BB%B0%FC%BF%B7.jpg?type=w1" width="500" height="300">
 
 | Sr.no | Function & Description |
-|:---:|:---:|
+|:---:|:---|
 | 1 | **int(x [,Base])** & converts x to an integer The base specifies the base if x is a string.|
 | 2 | **flaoat(x)** & Converts x to a floating-point number. |
 | 3 | **complex(real [,imag])** & Creates a complex number. |
