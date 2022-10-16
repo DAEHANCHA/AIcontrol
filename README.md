@@ -11,7 +11,8 @@
 
 | Sr.no | Function & Description |
 |:---:|:---:|
-| 1 | **int(x [,Base])** / converts x to an integer The base specifies the base if x is a string.|
+| 1 | **int(x [,Base])** /
+converts x to an integer The base specifies the base if x is a string.|
 | 2 | 한국폴리텍대학 **창원캠퍼스**:school: |
 | 3 | 경상남도 **고성** |
 | 4 | 8군단 **102기갑여단** |
